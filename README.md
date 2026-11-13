@@ -1,5 +1,3 @@
 # compressor
 
----
-
 A folder compressor.
