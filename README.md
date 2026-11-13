@@ -6,5 +6,5 @@ A folder compressor.
 
 Install with
 ```shell
-uv tool install --from git+https://github.com/danesh-418/compressor
+uv tool install compressor --from git+https://github.com/danesh-418/compressor
 ```
